@@ -100,11 +100,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "normal"
+  name             : "Pradeep Krishnan"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Portfolio"
-  location         : "NY"
-  email            :
+  bio              : "Data Scientist"
+  location         : "New York"
+  email            : "pradeep.ark@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -113,7 +113,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "pradeep-krishnan"
   gitlab           :
   google_plus      :
   keybase          :
