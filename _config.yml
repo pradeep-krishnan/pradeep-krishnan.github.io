@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale                   : "en-US"
 title                    : "Data Science"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "normal"
 description              : "An amazing website"
 url                      : "https://pradeep-krishnan.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -100,7 +100,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "PradeepKrishnan"
+  name             : "normal"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Portfolio website"
   location         : "New York, NY"
