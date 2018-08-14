@@ -22,4 +22,4 @@ df.columns = ['name', 'amount', 'year']
 df.head()
 ```
 You can see the image below:
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/img3.jpg)
+![alt]({{ site.url }}{{ site.baseurl }}/images/img3.jpg)
