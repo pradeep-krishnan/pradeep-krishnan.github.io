@@ -1,9 +1,6 @@
 # main links
-main:
-  - title: "About"
-    url: /about/
-  - title: "Machine Learning"
-    url: /machine-learning/
+#main:
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
