@@ -8,7 +8,7 @@ comments: true
 share: true
 read_time: true
 image:
-  header: image/img2.jpg
+  header: /image/img2.jpg
 ---
 
 Analysis of the similarity of names in terms of its use evolution in Argentina between 1922 and 2015.
