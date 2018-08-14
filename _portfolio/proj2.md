@@ -1,14 +1,12 @@
 ---
-layout: article
-title: Name temporal similarity
-categories: projects
+title: "Datascience project2"
 modified: 2016-06-01T16:28:11-04:00
 tags: [python, pandas, pca]
 comments: true
 share: true
 read_time: true
-image:
-  header: /image/img2.jpg
+header:
+  teaser: /images/img3.jpg
 ---
 
 Analysis of the similarity of names in terms of its use evolution in Argentina between 1922 and 2015.
@@ -19,7 +17,6 @@ This is the question that kickstarted this small toy project. It gave me a nice 
 
 ### Data loading and preprocessing
 
-Naming by year in Argentina dataset taken from [this website](http://www.datos.gob.ar/dataset/nombres-personas-fisicas). Here we assume the file `historico-nombres.csv` is placed in the same folder as the python script.
 
 
 ```python

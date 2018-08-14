@@ -1,13 +1,9 @@
 ---
-title: "Datascience project1"
-modified: 2016-06-01T16:28:11-04:00
-author_profile: true
-tags: [python, pandas, pca]
-comments: true
-share: true
-read_time: true
+title: "Datascience project8"
+excerpt: "using python, scikitlearn, this project tries to demonstrate my expertise in working with machine learning packages"
+date: 2018-08-14
 header:
-  teaser: /images/img6.jpg
+  teaser: /images/img4.jpg
 ---
 ## How do we measure the similarity of names in terms of the evolution of their use over time?
 
