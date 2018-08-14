@@ -4,8 +4,6 @@ main:
     url: /about/
   - title: "Resume"
     url: /resume/
-  - title: "Collections"
-    url: /collection-archive/
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
