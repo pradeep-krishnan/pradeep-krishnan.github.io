@@ -1,17 +1,17 @@
 ---
-title: "Datascience project3"
-excerpt: "using python, scikitlearn, this project tries to demonstrate my expertise in working with machine learning packages"
-modified: 2016-06-01T16:28:11-04:00
-tags: [python, pandas, pca]
+title: "Beer recommendation system"
+excerpt: "Recommender systems, NLP"
+modified: 2016-08-18T16:28:11-04:00
+tags: [python, pandas, nltk, NLP]
 comments: true
-share: true
+share: false
 read_time: true
 header:
   teaser: /images/img3.jpg
 ---
-## How do we measure the similarity of names in terms of the evolution of their use over time?
-
-Analysis of the similarity of names in terms of its use.
+#Beer recommendation
+##Based on scraped dataset
+###Flask app front end
 
 ```python
 import os
@@ -28,7 +28,7 @@ df.head()
 ```
 You can see the image below:
 ![alt]({{ site.url }}{{ site.baseurl }}/images/img3.jpg)
-Analysis of the similarity of names in terms of its use.Analysis of the similarity of names in terms of its use.Analysis of the similarity of names in terms of its use.Analysis of the similarity of names in terms of its use.Analysis of the similarity of names in terms of its use.Analysis of the similarity of names in terms of its use.Analysis of the similarity of names in terms of its use.Analysis of the similarity of names in terms of its use.Analysis of the similarity of names in terms of its use.Analysis of the similarity of names in terms of its use.Analysis of the similarity of names in terms of its use.Analysis of the similarity of names in terms of its use.
+Analysis of the similarity of names in terms of its use. Analysis of the similarity of names in terms of its use.Analysis of the similarity of names in terms of its use.Analysis of the similarity of names in terms of its use.Analysis of the similarity of names in terms of its use.Analysis of the similarity of names in terms of its use.Analysis of the similarity of names in terms of its use.Analysis of the similarity of names in terms of its use.Analysis of the similarity of names in terms of its use.Analysis of the similarity of names in terms of its use.Analysis of the similarity of names in terms of its use.Analysis of the similarity of names in terms of its use.
 
 ```python
 import os

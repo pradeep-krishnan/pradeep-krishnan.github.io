@@ -1,14 +1,11 @@
 ---
 title: "Datascience project6"
-excerpt: "using python, scikitlearn, this project tries to demonstrate my expertise in working with machine learning packages"
 date: 2018-08-14
 header:
   teaser: /images/img6.jpg
 ---
 
-
-# Classifying credit default in Lending Club - LR, LDA, kNN, PCA, NB
-
+#Sample project
 
 ```python
 import numpy as np
