@@ -1,17 +1,22 @@
 ---
-title: "Datascience project1"
-modified: 2016-06-01T16:28:11-04:00
+title: "House Price prediction"
+excerpt: "Regression techniques"
+modified: 2016-08-15
 author_profile: true
-tags: [python, pandas, pca]
+tags: [python, pandas, scikit-learn, regression]
 comments: true
-share: true
 read_time: true
 header:
   teaser: /images/img6.jpg
 ---
-## How do we measure the similarity of names in terms of the evolution of their use over time?
+## Predicting house prices using regression modeling
+Topics covered in this post:
+Multiple Linear Regression
+Lasso
+Ridge
+Decision Tree
+Random Forest
 
-Analysis of the similarity of names in terms of its use.
 
 ```python
 import os
