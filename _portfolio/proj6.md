@@ -417,7 +417,7 @@ plt.show()
 ```
 
 
-![png](lendingClub_LRandLDA_files/lendingClub_LRandLDA_14_0.png)
+![alt]({{ site.url }}{{ site.baseurl }}/images/sample13.jpg)
 
 
 
