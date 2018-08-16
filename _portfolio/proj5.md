@@ -1,6 +1,5 @@
 ---
 title: "Datascience project5"
-excerpt: "using python, scikitlearn, this project tries to demonstrate my expertise in working with machine learning packages"
 date: 2018-08-14
 header:
   teaser: /images/img4.jpg
@@ -53,19 +52,8 @@ test = pd.read_csv("test.csv")
 submission = pd.read_csv("sample_submission.csv")
 ```
 
+![alt]({{ site.url }}{{ site.baseurl }}/images/sample11.png)
 
-    ---------------------------------------------------------------------------
-
-    NameError                                 Traceback (most recent call last)
-
-    <ipython-input-3-fffad8fb88f4> in <module>()
-          1 #reading all the files as dataframes
-    ----> 2 train = pd.read_csv("train.csv")
-          3 test = pd.read_csv("test.csv")
-          4 submission = pd.read_csv("sample_submission.csv")
-
-
-    NameError: name 'pd' is not defined
 
 
 
@@ -313,6 +301,7 @@ pd.set_option('display.max_columns', None)
 train.head()
 ```
 
+![alt]({{ site.url }}{{ site.baseurl }}/images/sample12.png)
 
 
 

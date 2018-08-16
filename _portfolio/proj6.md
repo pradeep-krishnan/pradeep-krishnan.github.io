@@ -417,7 +417,7 @@ plt.show()
 ```
 
 
-![alt]({{ site.url }}{{ site.baseurl }}/images/sample13.jpg)
+![alt]({{ site.url }}{{ site.baseurl }}/images/sample13.png)
 
 
 
