@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "House Price prediction"
 excerpt: "Regression techniques"
 modified: 2016-08-15
