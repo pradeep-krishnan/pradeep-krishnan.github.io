@@ -17,7 +17,6 @@ Ridge
 Decision Tree
 Random Forest
 
-
 ```python
 import os
 import numpy as np

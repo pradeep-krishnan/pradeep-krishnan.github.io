@@ -1,6 +1,6 @@
 ---
-title: "Beer recommendation system"
-excerpt: "Recommender systems, NLP"
+title: "Recommendation system"
+excerpt: "Scraping, NLP"
 modified: 2016-08-18T16:28:11-04:00
 tags: [python, pandas, nltk, NLP]
 comments: true
