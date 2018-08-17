@@ -1,9 +1,8 @@
 ---
-layout: article
+layout: archive
 title: "House Price prediction"
 excerpt: "Regression, Ensembling, Stacking"
 modified: 2016-08-15
-author_profile: true
 tags: [python, pandas, scikit-learn, regression]
 comments: true
 read_time: true
