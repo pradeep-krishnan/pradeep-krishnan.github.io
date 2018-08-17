@@ -4,7 +4,7 @@ title: "House Price prediction"
 excerpt: "Regression, Ensembling, Stacking"
 modified: 2016-08-15
 tags: [python, pandas, scikit-learn, regression]
-comments: true
+comments: trues
 read_time: true
 header:
   teaser: /images/img6.jpg

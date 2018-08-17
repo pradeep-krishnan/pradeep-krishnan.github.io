@@ -4,7 +4,6 @@ excerpt: "Classification techniques"
 modified: 2016-08-15T16:28:11-04:00
 tags: [python, pandas, scikit-learn]
 comments: true
-author_profile: true
 share: false
 read_time: true
 header:
