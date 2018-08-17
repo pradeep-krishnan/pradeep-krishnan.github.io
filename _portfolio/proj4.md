@@ -1,10 +1,10 @@
 ---
-title: "Datascience project4"
-excerpt: "using python, scikitlearn, this project tries to demonstrate my expertise in working with machine learning packages"
+title: "Time Series"
 modified: 2016-06-01T16:28:11-04:00
-tags: [python, pandas, pca]
+tags: [python, pandas]
 comments: true
 share: true
+author_profile: true
 read_time: true
 header:
   teaser: /images/img1.jpg

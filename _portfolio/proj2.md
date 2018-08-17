@@ -1,5 +1,5 @@
 ---
-title: "Lending club loan default prediction"
+title: "Loan default prediction"
 excerpt: "Classification techniques"
 modified: 2016-08-15T16:28:11-04:00
 tags: [python, pandas, scikit-learn]
